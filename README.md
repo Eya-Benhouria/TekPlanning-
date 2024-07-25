@@ -1,6 +1,6 @@
 # TekPlanning-
 
-An Angular UI Home and Login UI application for work management.
+An Angular Home and Login UI application for work management builded during a summer Intership (June 2021).
 
 ## Installation
 1. Clone this repository.
@@ -9,3 +9,5 @@ An Angular UI Home and Login UI application for work management.
 
 ## Get Started
 - Visit the home page at http://localhost:4200.
+
+
